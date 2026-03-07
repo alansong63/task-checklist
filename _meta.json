@@ -1,6 +1,6 @@
 {
   "name": "task-checklist",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Long-running task checklist framework for AI agents",
   "author": "AlanSong",
   "license": "MIT",
@@ -9,5 +9,11 @@
     "type": "git",
     "url": "https://github.com/alansong63/task-checklist.git"
   },
-  "keywords": ["openclaw", "skill", "checklist", "task", "workflow"]
+  "keywords": ["openclaw", "skill", "checklist", "task", "workflow"],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "CHANGELOG.md",
+    "_meta.json"
+  ]
 }
