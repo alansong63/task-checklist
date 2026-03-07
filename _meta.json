@@ -3,5 +3,11 @@
   "version": "0.1.0",
   "description": "Long-running task checklist framework for AI agents",
   "author": "AlanSong",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/alansong63/task-checklist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alansong63/task-checklist.git"
+  },
+  "keywords": ["openclaw", "skill", "checklist", "task", "workflow"]
 }
