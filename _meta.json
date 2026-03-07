@@ -1,0 +1,7 @@
+{
+  "name": "task-checklist",
+  "version": "0.1.0",
+  "description": "Long-running task checklist framework for AI agents",
+  "author": "AlanSong",
+  "license": "MIT"
+}
